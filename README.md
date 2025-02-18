@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst </h1> </div>
-<b>Hi, My name is ??????. I am a data professional.<b>
+<b>Hi, My name is Maduka. I am a data professional.<b>
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face: DATA ANALYSIS TOOLS :nerd_face: </h1> 
 </div>
